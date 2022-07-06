@@ -39,12 +39,12 @@
 
         sticky_layer_2 {
             bindings = <&sl 2>;
-            key-positions = <38 37 30 31>;
+            key-positions = <30 31>;
         };
 
         sticky_layer_5 {
             bindings = <&sl 5>;
-            key-positions = <39 40 32 33>;
+            key-positions = <32 33>;
         };
     };
 
